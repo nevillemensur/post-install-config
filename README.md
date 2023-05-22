@@ -150,13 +150,6 @@ System Administrators
 <p>
 
 </p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/odef0as.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  
 Configure Teams
   
 Admin Panel -> Agents -> Teams
@@ -164,6 +157,13 @@ Admin Panel -> Agents -> Teams
 Level I Support
   
 Level II Support
+<br />
+
+<p>
+<img src="https://i.imgur.com/odef0as.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
 
 </p>
 <br />
