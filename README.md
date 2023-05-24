@@ -351,9 +351,6 @@ Ken
 <br />
 
 <p>
-<img src="https://i.imgur.com/uCm1ABG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
   
 Configure SLA
   
@@ -367,6 +364,10 @@ Sev-C (8 hours, business hours)
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/uCm1ABG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <p>
 <img src="https://i.imgur.com/ol3QASn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -423,11 +424,6 @@ Sev-C (8 hours, business hours)
 
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/xn2F4Mx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 </p>
 <br />
