@@ -31,15 +31,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/88MQfnm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Configure Roles
   
 A. Admin Panel -> Agents -> Roles
   
 B. Supreme Admin
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/88MQfnm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -108,15 +109,16 @@ B. Supreme Admin
 <br />
 
 <p>
-<img src="https://i.imgur.com/gA6tRv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Configure Departments
   
 Admin Panel -> Agents -> Departments
   
 System Administrators
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/gA6tRv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -145,11 +147,6 @@ System Administrators
 <br />
 
 <p>
-<img src="https://i.imgur.com/NnYd3i0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
 Configure Teams
   
 Admin Panel -> Agents -> Teams
@@ -157,6 +154,12 @@ Admin Panel -> Agents -> Teams
 Level I Support
   
 Level II Support
+</p>
+
+<p>
+<img src="https://i.imgur.com/NnYd3i0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <br />
 
 <p>
